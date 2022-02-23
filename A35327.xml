@@ -1,0 +1,423 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The usefulnesse of spiritual wisdom with a temporal inheritance in a sermon preached March 11th 1688/9 at the entrance of a young man upon his habitation and particular calling / and at his request published by T. Cruso.</title>
+            <author>Cruso, Timothy, 1656?-1697.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 59 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35327</idno>
+            <idno type="STC">Wing C7446</idno>
+            <idno type="STC">ESTC R30285</idno>
+            <idno type="EEBO-CITATION">11283323</idno>
+            <idno type="OCLC">ocm 11283323</idno>
+            <idno type="VID">47282</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35327)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 47282)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1459:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The usefulnesse of spiritual wisdom with a temporal inheritance in a sermon preached March 11th 1688/9 at the entrance of a young man upon his habitation and particular calling / and at his request published by T. Cruso.</title>
+                  <author>Cruso, Timothy, 1656?-1697.</author>
+               </titleStmt>
+               <extent>[6], 23 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.R. for John Salusbury ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wisdom --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+               <term>Gifts, Spiritual --  Sermons.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Jayanthi Reddy</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Jayanthi Reddy</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:47282:1" rendition="simple:additions"/>
+            <pb facs="tcp:47282:1"/>
+            <p>THE USEFULNESSE OF <hi>SPIRIT<g ref="char:V">Ʋ</g>AL WISDOM</hi> WITH A <hi>TEMPORAL INHERITANCE.</hi>
+            </p>
+            <p>IN A SERMON Preached <hi>March, 11th.</hi> 1688/9. At the Entrance of a Young Man upon his Habitation and parti<g ref="char:EOLhyphen"/>cular Calling.</p>
+            <p>And at his Requeſt Publiſhed By <hi>T. CR<g ref="char:V">Ʋ</g>SO.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>I CORINTH vii. 30.</hi>
+               </bibl>
+               <p>—And they that buy, as tho' they poſſeſſed not.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J.R.</hi> for <hi>John Salusbury,</hi> at the Riſing <hi>Sun,</hi> near the <hi>Royal Exchange</hi> in <hi>Cornhil,</hi> 1689.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:47282:2"/>
+            <pb facs="tcp:47282:2"/>
+            <head>To his Eſteemed Friend. M<hi rend="sup">R.</hi> R. G.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>YOU cannot blame the inſcribing of theſe Papers to your ſelf, as their juſt and proper <hi>Patron,</hi> becauſe through <hi>your own ſo<g ref="char:EOLhyphen"/>licitation,</hi> the matter contain'd in them was firſt delivered, and is now after this more publick man<g ref="char:EOLhyphen"/>ner recorded, principally for <hi>your own uſe.</hi> If any others receiv'd any benefit by the Hearing, or if any ſhould hereafter by the Reading of it, as they ought to return the chief <hi>praiſe</hi> to God, (whoſe Spirit, I hope, aſsiſted in the Compoſure, and from whom his ſervants have all their furniture for <hi>every good word and work</hi>) they do in the next place owe their <hi>Thanks</hi> to you. For you have
+<pb facs="tcp:47282:3" rendition="simple:additions"/>(eſpecially) by putting me upon ſuch a <hi>ſecond ſer<g ref="char:EOLhyphen"/>vice,</hi> manifeſted your unwillingneſs to reap the Fruit of this labour <hi>alone,</hi> aſwel as your charita<g ref="char:EOLhyphen"/>ble hopes, that it may produce <hi>ſome</hi> through the bleſsing of heaven; in which I heartily wiſh, that you be not diſappointed. All the I can ſay to en<g ref="char:EOLhyphen"/>courage you, is only this, that I have not here ſtept out of the road of the <hi>common Faith,</hi>
+               <note place="margin">Tit. 1.4.</note> but writ<g ref="char:EOLhyphen"/>ten the plaineſt Truths in the plaineſt method, and therefore 'tis ſo far fitted (though defective in many other reſpects) to anſwer the end of <hi>com<g ref="char:EOLhyphen"/>mon Edification;</hi> nor is your Caſe ſo <hi>peculiar,</hi> but that Others may frequently be in the <hi>ſame,</hi> and ſtand in need of the <hi>like</hi> inſtructions.</p>
+            <p>But I do not flatter you, when I tell you, that <hi>I am perſwaded better things of you,</hi> than I can expect from this diſcourſe upon every ordinary ſuperficial Reader; men do ſeldom conſider, that the <hi>word</hi> which ſounds in their Ear, or is preſented to their Eye,<note place="margin">John 12.48.</note> ſhall help to <hi>Judge them at the laſt day;</hi> and ſo, a trifling curſory peruſal of the moſt ſerious and important things, aggravates their ac<g ref="char:EOLhyphen"/>count <hi>hereafter,</hi> though it does not influence their practice <hi>here.</hi> Multitudes, when they are at that
+<pb facs="tcp:47282:3"/>Age, which you have arrived to, lay the foundation of a late and ineffual Repentance, and of remedi<g ref="char:EOLhyphen"/>leſs everlaſting miſery:<note place="margin">Pſal. 58.3.</note> They are <hi>eſtranged from the Womb,</hi> and in that ſtate they continue, till they are falling into the <hi>Grave,</hi> under the heavy load of the <hi>ſins of their Youth;</hi> if they do take care to thrive and proſper in this World by <hi>heap<g ref="char:EOLhyphen"/>ing up Riches,</hi> they will be ſure to make their condition moſt wretched in the next by <hi>Treaſuring up Wrath;</hi> the <hi>neglect</hi> of their Souls, is as no<g ref="char:EOLhyphen"/>torious, as the <hi>(perhaps)</hi> unneceſſary <hi>Proviſi<g ref="char:EOLhyphen"/>on</hi> which is made for their <hi>Bodies;</hi> when they lanch into the buſineſs of their ſeveral Profeſsions, the <hi>getting of an Eſtate</hi> is their only Aim, and in the purſuit of this, they <hi>loſe</hi> that which is <hi>more worth than the whole World.</hi> The <hi>Wiſdom</hi> recommended in the following Sermon, will be but <hi>fooliſhneſs</hi> to all ſuch, unleſs God is pleaſed to give them <hi>other Spirits.</hi>
+            </p>
+            <p>You on the other hand, have <hi>begun</hi> ſo well <hi>with God,</hi> that I therefore chearfully expect your happy <hi>progreſs:</hi> I doubt not but that you have fixt your eye, and <hi>ſet your heart, aright,</hi> by propoſing the <hi>beſt End,</hi> and chuſing the <hi>beſt Part;</hi> never<g ref="char:EOLhyphen"/>theleſs
+<pb facs="tcp:47282:4"/>ſeeing your lot is caſt into ſuch a <hi>time of Temptation,</hi> and every circumſtance of humane Life is ſo full of <hi>Snares,</hi> and there is a <hi>ſpecial vanity</hi> in <hi>youth,</hi>
+               <note place="margin">Eccl. 11.10.</note> there is need of conſtant watch<g ref="char:EOLhyphen"/>fulneſs and care, and frequent renewing your Holy Reſolutions, as well as Invocation of God for help, that your <hi>Bow</hi> which yet <hi>abides in ſtrength,</hi> may never <hi>Break</hi> or <hi>Slacken,</hi> through the entice<g ref="char:EOLhyphen"/>ments of <hi>evil Company,</hi> the <hi>Deceitfulneſs of Riches,</hi> or power of <hi>Indwelling Sin.</hi> You may meet with ſome who <hi>think it ſtrange,</hi>
+               <note place="margin">Pet. 4.4.</note> 
+               <hi>that you run not with them to the ſame Exceſs of Riot,</hi> and other debauchery; and the <hi>Fleſh is</hi> ſtill <hi>Luſting againſt the Spirit</hi> in the moſt im<g ref="char:EOLhyphen"/>proved and mortified Chriſtians; and there is ſcarce<g ref="char:EOLhyphen"/>ly any <hi>lawful Employment,</hi> but what by an un<g ref="char:EOLhyphen"/>due behaviour in it, may <hi>become ſin.</hi> I muſt therefore, while I take <hi>Comfort</hi> in your Pious beginnings, give you this <hi>Councel</hi> and <hi>Caution</hi> againſt a dangerous Revolt.</p>
+            <p>I lift up an hearty prayer for you, that the bleſ<g ref="char:EOLhyphen"/>ſing of God out of <hi>Sion</hi> may reſt upon you, and all your concerns; that he may not be to you as the <hi>Moth,</hi>
+               <note place="margin">Hoſ. 5.12.</note> or as <hi>Rottenneſs,</hi> but as the <hi>cheriſhing
+<pb facs="tcp:47282:4"/>Sun</hi> and <hi>fructifying Dew;</hi> that neither your <hi>Root,</hi> nor <hi>Leaf may wither;</hi> that the <hi>Fear of God</hi> may be always <hi>before your face,</hi> and <hi>his ſecret upon your Tabernacle;</hi>
+               <note place="margin">Job 29.4.</note> that your <hi>Soul</hi> may be <hi>like a watered Garden,</hi> and an <hi>Hedge</hi> of Providence Planted <hi>about</hi> all which you have on every ſide; and that after you are car<g ref="char:EOLhyphen"/>ried through the ſeveral Changes and Periods of time, the <hi>God whom you ſerve,</hi> may be your <hi>Inheritance</hi> and <hi>Portion</hi> to Eternity. So pray<g ref="char:EOLhyphen"/>ing, and by all other poſsible means, which my Sta<g ref="char:EOLhyphen"/>tion or Capacity will afford for your Aſsiſtance, in any Spiritual matters, I ſhall very readily approve my ſelf,</p>
+            <closer>
+               <signed>Your Moſt Faithful Friend and Servant, <hi>T. C.</hi>
+               </signed>
+               <dateline>
+                  <date>May <hi>22. 1689.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:47282:5"/>
+            <pb n="1" facs="tcp:47282:5"/>
+            <head>The Uſefulneſs of <hi>Spiritual Wiſdom</hi> with a <hi>Temporal Inheritance.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>ECCLES. 7.11.</hi>
+                  </bibl>
+                  <p>Wiſdom is good with an Inheritance: and by it there is profit to them that ſee the Sun.</p>
+               </q>
+            </epigraph>
+            <p>IT is an old Obſervation of <hi>Solomon,</hi> the Author of this Book,<note place="margin">chap. 1.9.</note> that <hi>there is no new thing under the Sun.</hi> Among the many Inſtances, which there are of the Truth of it, This may be reckon'd for One, that there are no <hi>New Complaints.</hi> Every Generation is apt to repeat the <hi>ſame murmuring Que<g ref="char:EOLhyphen"/>ſtion,</hi>
+               <note place="margin">chap. 7.10.</note> 
+               <hi>What is the Cauſe that the former Dayes were bet<g ref="char:EOLhyphen"/>ter than theſe?</hi> (as in the words immediately prece<g ref="char:EOLhyphen"/>ding the Text) Our Streets were never free from this <hi>Complaining,</hi> and probably never will be; the Mouths of our Progenitors were full of it <hi>heretofore,</hi> and ſo are Ours <hi>now,</hi> and they that come after us, are as likely to continue it <hi>to the end</hi> of the World. <hi>So<g ref="char:EOLhyphen"/>lomon</hi> tells us here, that this ſprings from a fooliſh Im<g ref="char:EOLhyphen"/>patience; Men do not <hi>enquire wiſely</hi> in this matter. It is certain, that ſince the entrance of Sin into the World, which is the Root and Foundation of all Ca<g ref="char:EOLhyphen"/>lamities, the <hi>Dayes</hi> have been always <hi>Evil,</hi> more or
+<pb n="2" facs="tcp:47282:6"/>leſs; and yet every <hi>Age,</hi> through the Mercy of Gods Providence, hath enjoyed ſome <hi>Good</hi> to ballance the Evil; therefore inſtead of finding fault with the <hi>Times</hi> in which we live, (which is indeed to quarrel with God's caſting of our Lot, and guiding of Events) we ſhould rather conſider and cenſure what is amiſs in <hi>our ſelves.</hi> If we were as we ought to be, we might very well improve the <hi>worſt</hi> of Times, but our own defects and diſorders will make us miſcarry in the <hi>beſt.</hi> From hence the <hi>Wiſe Man</hi> ſeems to take the occaſion of recommending <hi>Wiſdom</hi> in this place, <hi>ver.</hi> 11.</p>
+            <p>
+               <hi>Four</hi> Queſtions are neceſſary to be reſolved in the <hi>Opening</hi> of the Words.</p>
+            <p n="1">I. What is meant by <hi>Wiſdom</hi> here? Anſ. In <hi>three</hi> things.</p>
+            <p n="1">1.<note place="margin">1 King. 4.29.</note> It does not ſignifie ſuch a <hi>largeneſs of heart,</hi> as <hi>Solomon</hi> himſelf had, who could ſearch into the Na<g ref="char:EOLhyphen"/>ture and Reaſon of things, beyond any that were before him.<note place="margin">Gen. 2.19, 20.</note> (<hi>Adam</hi> onely excepted, who <hi>gave names</hi> to every Creature.) Such a comprehenſive Mind, and vaſt underſtanding was Gods <hi>peculiar</hi> Gift to him; and beſides, it muſt be owned, that the great Intellectual Abilities of others many times prove their Snare, and they go to <hi>Hell</hi> with ſuch extraordinary <hi>Light.</hi>
+               <note place="margin">1 Cor. 1.26.</note> The Apoſtle ſays, that <hi>Not many wiſe men after the fleſh are called;</hi> perſons of the meaneſt parts do very commonly <hi>go into the kingdom of God before</hi> the learned.</p>
+            <p n="2">2. The Holy Ghoſt here does not mean that <hi>Skill</hi> and <hi>Prudence,</hi> which is exercis'd in the getting, increaſing
+<pb n="3" facs="tcp:47282:6"/>or preſerving of <hi>Eſtates.</hi>
+               <note place="margin">Luk. 16.8.</note> So the <hi>children of this world are wiſe, in their generation,</hi> and uſually proſper moſt with it. 'Tis true, a fit meaſure of ſuch Wiſdom is very neceſſary in the managing of every ones <hi>particu<g ref="char:EOLhyphen"/>lar Employment</hi> and Vocation; it's no prejudice to a <hi>Good Man,</hi> that he <hi>guides his affairs with diſcretion,</hi>
+               <note place="margin">Pſal. 112.5.</note> but a part of his juſt commendation; for elſe by his ignorance and folly he may ſoon ruine himſelf, and all that belong to him. But men may be thus Wiſe, and yet be Miſerable. And therefore</p>
+            <p n="3">3. The Wiſdom here meant, is no other than <hi>ſeri<g ref="char:EOLhyphen"/>ous Religion.</hi> This is the moſt general ſenſe of the word in the Holy Scripture, and more particularly in the Books of <hi>this</hi> Inſpired Author. <hi>All other</hi> Wiſ<g ref="char:EOLhyphen"/>dom is inſignificant without this, and <hi>this of it ſelf</hi> is uſeful to the beſt purpoſes. We learn from <hi>Moſes,</hi>
+               <note place="margin">Deut. 4.6.</note> that thoſe <hi>Nations which keep and do the command<g ref="char:EOLhyphen"/>ments of God,</hi> are indeed a <hi>wiſe and underſtanding people. Job</hi> mentions it as Gods immediate <hi>ſaying to Man, Behold, the fear of the Lord, that is wiſdom,</hi> &amp;c.<note place="margin">Job 28.28.</note> And the <hi>Pſalmiſt</hi> agrees with both, in telling us, that <hi>the fear of the Lord is the beginning of wiſdom,</hi> &amp;c.<note place="margin">Pſal. 111.10.</note> Wicked Men, whatever other Qualifications and En<g ref="char:EOLhyphen"/>dowments they may have, which are valuable in their kind, muſt be look'd upon as the <hi>Real Fools in Iſrael.</hi> We cannot judge any one truly wiſe, who wants <hi>Grace,</hi> whereby to <hi>ſerve God,</hi> and <hi>his Generation.</hi>
+            </p>
+            <p n="2">II. What are we to underſtand by <hi>an Inheritance</hi> in this place? Anſw. In two things.</p>
+            <p n="1">1. It muſt not be reſtrained literally and ſtrictly to ſuch an Eſtate <hi>onely,</hi> as <hi>deſcends upon us from others</hi> by Legal right, or by their free and Arbitrary Bounty;
+<pb n="4" facs="tcp:47282:7"/>the <hi>Inheritance</hi> here intended may be <hi>gotten</hi> by a mans <hi>own industry</hi> and Care, though Relatives and Friends may have <hi>left</hi> him as little in the World, as they <hi>carri<g ref="char:EOLhyphen"/>ed</hi> out of it.</p>
+            <p n="2">2. Therefore it muſt be taken in the largeſt ſenſe, to ſignifie a <hi>moderate ſhare of worldly or Temporal poſ<g ref="char:EOLhyphen"/>ſeſſions;</hi> whatſoever will comfortably maintain and ſupport us in this life. And this is expreſt by an [In<g ref="char:EOLhyphen"/>heritance,] becauſe that is accounted the beſt, the moſt ſolid, and <hi>Real</hi> Eſtate: But there is no mention of any limited <hi>quantity,</hi> becauſe God gives to every one a <hi>portion</hi> of ſuch good things according as he pleaſeth, and Grace will teach us the improvement of a <hi>Leſſer</hi> portion, when Luſt will abuſe a <hi>Greater.</hi>
+            </p>
+            <p n="3">III. What is the meaning of the Conjunction of theſe Two? Wiſdom <hi>is good with</hi> an Inheritance. <hi>Anſw.</hi> In Three things.</p>
+            <p n="1">1. It muſt not be underſtood ſo, as if Wiſdom were <hi>not good without</hi> an Inheritance. A man <hi>rich toward God</hi> is ſafe and happy, though he be <hi>poor in this World.</hi> Grace is a <hi>good treaſure</hi> in the Heart, though God do cut us ſhort in things that are with<g ref="char:EOLhyphen"/>out, which concern the body. It is not abſolutely and indiſpenſibly neceſſary to our main and <hi>principal bleſſedneſs,</hi>
+               <note place="margin">Prov. 30.8.</note> that we ſhould be fed with <hi>food convenient for us,</hi> (if we have <hi>neceſſary food,</hi> that will ſuffice) though it conduce very much to our <hi>preſent well being.</hi>
+            </p>
+            <p n="2">2. The meaning is not, that Wiſdom and an inhe<g ref="char:EOLhyphen"/>ritance are <hi>equally good.</hi> The Holy Ghoſt does not deſign to ſet theſe two upon <hi>one Level;</hi> for an Inheri<g ref="char:EOLhyphen"/>tance is not to be compared with wiſdom, but wiſ<g ref="char:EOLhyphen"/>dom
+<pb n="5" facs="tcp:47282:7"/>ought to be preferred to the largeſt Inheritances in the World. <hi>My fruit is better than Gold,</hi>
+               <note place="margin">Prov. 8.19.</note> 
+               <hi>yea than fine Gold, and my Revenue than choice Silver. Solo<g ref="char:EOLhyphen"/>mon</hi> puts them in the ballances together, and ſhews us which weighs moſt, in the words following the Text. <hi>Wiſdom is a defence, and money is a defence, but the excellency of knowledge is, that it giveth Life to them that have it.</hi>
+               <note place="margin">verſe 12.</note>
+            </p>
+            <p n="3">3. Therefore the ſcope and ſenſe of this paſſage is, that when <hi>wiſdom</hi> is join'd with an Inheritance by the <hi>Spirit</hi> of God, and an <hi>Inheritance</hi> with wiſdom by the <hi>Providence</hi> of God, 'tis <hi>beſt</hi> for the perſon himſelf, and for all thoſe, who are within his influence and reach. They are neither of them <hi>ſo good,</hi> when they are <hi>divided</hi> and apart, as when they happen to be <hi>linkt</hi> in the ſame hand. 'Tis an happy diſpenſation when (like <hi>righteouſneſs and peace,</hi>
+               <note place="margin">Pſal. 85.10.</note>) they <hi>kiſs each other;</hi> for their Union is both moſt <hi>beautiful,</hi> and moſt <hi>advantagious.</hi>
+            </p>
+            <p n="4">IV. Why is the <hi>profit</hi> of theſe two limited <hi>to them that ſee the Sun? Anſw.</hi> The wiſe man does plainly intend by that expreſſion, <hi>ſuch as are alive upon the Earth;</hi> for it is during this mortal life alone, that we either <hi>enjoy</hi> or <hi>need</hi> the benefit of that glorious Lu<g ref="char:EOLhyphen"/>minary; there is <hi>no Sun or Moon,</hi>
+               <note place="margin">Rev. 21.23.</note> which ſhines to the inhabitants of the next World. But two things ſeem to be eſpecially hinted by this clauſe here.</p>
+            <p n="1">1. That, <hi>Our time of ſervice</hi> ends at death. We <hi>muſt work the works of God, while it is day;</hi>
+               <note place="margin">John 9.4.</note> all our opportunities of working ceaſe, when <hi>the night comes. Solomon</hi> admoniſhes us in this Book to ſet about our duty with all poſſible diligence, becauſe there is <hi>no
+<pb n="6" facs="tcp:47282:8"/>knowledge nor wiſdom in the Grave,</hi>
+               <note place="margin">c. 9.10.</note> whither we go. <hi>Our works</hi> indeed are ſaid to <hi>follow us,</hi>
+               <note place="margin">Rev. 14.13.</note> when we dye in the Lord; becauſe then we ſhall be <hi>finally recom<g ref="char:EOLhyphen"/>penced</hi> according to them; but to ſpeak properly, all that we do for God, for our own Souls, or thoſe that are our Contemporaries, it muſt be done <hi>on this ſide</hi> of Eternity. That which is neglected now, cannot be performed hereafter.</p>
+            <p n="2">2. No <hi>Earthly things</hi> can be of any <hi>advantage to us,</hi> beyond the preſent Life. Therefore they are called <hi>this Worlds goods.</hi>
+               <note place="margin">1 John 3.17. 1 Tim. 6.7.</note> As we <hi>brought them not into the World</hi> with us, ſo neither can we <hi>carry them out;</hi> and if we could, they would avail us nothing; they cannot <hi>add</hi> to the happineſs of the <hi>glorified</hi> in Heaven, nor <hi>take away</hi> from the miſery of the <hi>damned</hi> in Hell. They <hi>profit not in the day of wrath;</hi>
+               <note place="margin">Prov. 11.4.</note> they will neither <hi>prevent,</hi> nor <hi>alter</hi> the ſentence, at the particular or univerſal judgment. The <hi>ruſt</hi> of mens <hi>Silver and Gold</hi> may <hi>eat their Fleſh like Fire,</hi>
+               <note place="margin">Jam. 5.3.</note> but nothing is ſuf<g ref="char:EOLhyphen"/>ficient to <hi>purchaſe</hi> them ſo much as a <hi>drop of water.</hi> The <hi>ſubstance</hi> which we leave behind us, does then periſh to us, in reſpect of its <hi>
+                  <g ref="char:V">Ʋ</g>ſe:</hi> and however ſer<g ref="char:EOLhyphen"/>viceable or helpful it may be to thoſe that <hi>ſurvive,</hi> it is utterly inſignificant to them that are <hi>departed.</hi>
+            </p>
+            <p>The <hi>Obſervation</hi> which the words thus explain'd, do offer to our further Thoughts, is this, That</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>
+               </label> 
+               <hi>Holy Wiſdom with a competent Inheritance, is a very profitable good.</hi>
+            </p>
+            <p>In the handling of this, I ſhall endeavour four Things.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="I"/> Firſt, To ſhew, wherein Holy Wiſdom ought chiefly to diſcover it ſelf.</p>
+            <pb n="7" facs="tcp:47282:8"/>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="II"/> Secondly, What may be juſtly accounted a com<g ref="char:EOLhyphen"/>petent Inheritance.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="III"/> Thirdly, How the Profitableneſs of both together does appear.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="IV"/> Laſtly, Apply the whole.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> The <hi>firſt</hi> thing, is to ſhew, wherein holy ſpiritual <hi>wiſdom</hi> muſt be cheifly <hi>exercis'd</hi> and acted. There are Eight remarkable inſtances or diſcoveries of it, which all perſons ſhould look to.</p>
+            <p>Firſt, a <hi>regular</hi> and <hi>ſeaſonable</hi> performance of duties. Many actions, which as to the <hi>Matter</hi> of them hath been good, for want of Chriſtian wiſdom, have loſt much of their beauty, through the ill management of their <hi>particular circumſtances.</hi> The ordering and diſ<g ref="char:EOLhyphen"/>poſing of <hi>good</hi> actions <hi>well,</hi> is a great thing in Religion. We may ſay of a work done, aſwell as of a <hi>Word ſpoken in due ſeaſon, how good is it?</hi>
+               <note place="margin">Prov. 15.23.</note> This <hi>adds</hi> a good<g ref="char:EOLhyphen"/>neſſe to it, which if done at another leſs convenient time, it would not have. We ſhould learn to put every thing into <hi>method,</hi> which our <hi>Hand findeth to do:</hi> That all our Duties may fall in their <hi>proper place,</hi> one after another, and not one diſturb or hinder another. As God <hi>appoints a time to every purpoſe,</hi> ſo ſhould we,<note place="margin">Eccl. 3.1.</note> and ſuch a time as is moſt fit and agreeable to it.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly, A careful <hi>avoiding,</hi> or vigorous <hi>reſiſting</hi> of temptations. Many temptations may be avoided by a prudent care, and by circumſpect walking, which is a great evidence of wiſdom: (<hi>ſee that ye walk circum<g ref="char:EOLhyphen"/>ſpectly, not as fools, but as wiſe:</hi> ſayes the <hi>Apoſtle.</hi>
+               <note place="margin">Eph. 5.15.</note>) And this we are obliged to, that we may not ſin a<g ref="char:EOLhyphen"/>gainſt our own <hi>prayers;</hi> for if we pray that God would not <hi>lead us into temptation,</hi> 'tis but reaſonable that we
+<pb n="8" facs="tcp:47282:9" rendition="simple:additions"/>ſhould not fooliſhy <hi>run</hi> into it our ſelves. We may ſhun a multitude of entangling ſnares, if we tread with CAution. And thoſe temptations which are avoidable, ſhould be vigorouſly withſtood; we muſt not yeild, or comply with them in the <hi>leaſt,</hi> but after the moſt ſteady reſolute manner oppoſe our ſelves to their <hi>firſt aſſaults.</hi> This is the way to come off with victory, and keep our conſciences pure. Without doing ſo, we give great advantages to Satan, and it will be im<g ref="char:EOLhyphen"/>poſſible to <hi>eſcape</hi> or <hi>overcome</hi> the various difficulties which beſet us in every condition of life.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Thirdly, A <hi>meek and patient bearing</hi> of afflictions. Much wiſdom is ſeen in this; for it is the groſſeſt folly in the world, to make our <hi>load</hi> at any time the <hi>greater</hi> by <hi>uneaſie ſtrugglings</hi> under it. A great deal of the <hi>art</hi> and <hi>myſtery</hi> of practical Chriſtianity, lyes in <hi>ſuffer<g ref="char:EOLhyphen"/>ing according to the will of God.</hi>
+               <note place="margin">1 Pet. 4.19.</note> All that are afflicted, do not ſuffer <hi>ſo:</hi> they ſuffer indeed what God in his <hi>providence</hi> thinks fit to <hi>inflict,</hi> (and they cannot do otherwiſe) but they do not ſuffer, as God in his <hi>word</hi> is pleaſed to <hi>direct;</hi> many ſuffer according to the <hi>diſ<g ref="char:EOLhyphen"/>poſing</hi> will of God, who in their ſufferings regard not his <hi>commanding</hi> will. In the moſt proſperous ſtate there oftentimes happens a mixture of diſappointments and loſſes, and <hi>perſonal</hi> evills, (if we are freed from <hi>Publick</hi> ones) which one who is truly and ſavingly wiſe, will quietly and calmly undergo; whereas 'tis one of the Characters of a Fool,<note place="margin">Prov. 14.16.</note> to <hi>Rage.</hi> We can<g ref="char:EOLhyphen"/>not make our caſe the <hi>better</hi> by fretting and ſtriving againſt God, but ſhall certainly make it worſe.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> Fourthly, A <hi>diligent improving</hi> of mercies for the Glory of God, and good of our Brethren. This is
+<pb n="9" facs="tcp:47282:9"/>ſureſt courſe of <hi>thriving</hi> in <hi>this</hi> world, and <hi>laying up a good foundation</hi> for the <hi>next.</hi> The rule of the Goſ<g ref="char:EOLhyphen"/>pel does not bind any to <hi>waſt</hi> and <hi>conſume</hi> their Eſtates by an <hi>imprudent Prodigality</hi> (for this is not to honour God) but yet it warns them againſt a baſe and ſinful <hi>Covetouſneſs</hi> in <hi>Hording up</hi> of what they are called to <hi>Lay out.</hi> The Charitable man is <hi>wiſe for himſelf,</hi> when the wretched niggard is only wiſe for a <hi>doubtful poſterity.</hi> And, is there not more wiſdom in <hi>ſcattering</hi> upon Earth, that we may <hi>reap</hi> in Heaven, than in <hi>gathering</hi> for we <hi>know not whom?</hi> Is it not better to <hi>make to our ſelves friends of the mammon of unrighteouſneſs,</hi> than to leave it perhaps to ſuch,<note place="margin">Luke 16.9.</note> who may <hi>curſe our memory,</hi> while they <hi>rejoyce in our labour?</hi> When God gives us <hi>richly to enjoy,</hi> 'tis no ſign of diſ<g ref="char:EOLhyphen"/>cretion for us to <hi>give ſparingly.</hi> If we believe the Scripture (Confirm'd by the <hi>Experience</hi> of many) this is more likely to <hi>impair</hi> our wealth, than to <hi>increaſe</hi> it. <hi>There is that withholdeth more than is meet,</hi>
+               <note place="margin">Prov. 11.24, 25.</note> 
+               <hi>and it tendeth to poverty:</hi> Whereas <hi>the liberal ſoul ſhall be made fat.</hi> The bountiful giver wiſely <hi>prevents</hi> what the ſordid worldling <hi>fears.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/> Fifthly, a <hi>Curbing</hi> and <hi>reſtraining</hi> of our affections and appetites to lawful things. It is unſafe, and there<g ref="char:EOLhyphen"/>fore an unwiſe thing, to go to the <hi>utmost bounds</hi> of what we may do. <hi>Solomon</hi> tells us in this Book, which is the <hi>memorial</hi> of his <hi>Repentance,</hi> that <hi>whatſoever his eyes deſired, he kept not from them,</hi>
+               <note place="margin">chap. 2.10.</note> 
+               <hi>and he withheld not his heart from any joy.</hi> For ought we know, the ta<g ref="char:EOLhyphen"/>king of ſo great a liberty, might be an Introduction to his <hi>fall;</hi> becauſe the paſſage is quick and eaſie many times from <hi>lawful fruitions</hi> to <hi>unlawful ſenſualities. Mortification</hi> and <hi>Self-denyal</hi> ſhould not be ſtrange
+<pb n="10" facs="tcp:47282:10"/>things to us; the more we <hi>indulge</hi> our fleſh, the more inſolent and <hi>unruly</hi> it will be; and that which it ſeems now modeſtly to <hi>crave,</hi> hereafter it may imperi<g ref="char:EOLhyphen"/>ouſly <hi>command.</hi> Tis beſt always to <hi>abridge</hi> our ſelves a little, even of <hi>innocent</hi> enjoyments and delights, leſt at length our <hi>Back</hi> or our <hi>Belly</hi> ſhould come to be <hi>our God,</hi>
+               <note place="margin">Iſa. 46.6.</note> and we <hi>laviſh gold out of the bag</hi> as much upon our <hi>luſts,</hi> as they whom the <hi>Prophet</hi> ſpeaks of, did upon their <hi>Idols.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="6"/> Sixthly, A continual <hi>watching</hi> over our ſences, and ſtrict <hi>Government</hi> of our Tongues. 'Tis a main branch of holy wiſdom to <hi>make and keep a Covenant</hi> with our <hi>eyes</hi> and <hi>ears,</hi>
+               <note place="margin">Job 31.1.</note> that they may not <hi>betray</hi> us into ſin <hi>on a ſudden,</hi> and before we are aware. They prove two often <hi>In lets</hi> to the Devil, and <hi>out lets</hi> to abundance of corruption, if they are not narrowly <hi>obſerv'd,</hi> and conſtantly <hi>guarded.</hi> 'Tis no unheard of thing, for the eye and ear not only to <hi>Affect</hi> the heart but to make way for <hi>Polluting</hi> it; and there<g ref="char:EOLhyphen"/>fore the heart ſhould be very vigilant with reſpect to them. Nor is there any thing will diſcover more or greater wiſdom, than the <hi>bridling of our Tongues;</hi> the <hi>Apoſtle James</hi> recommends this as one of the moſt important matters in Religion:<note place="margin">Jam. 3.2.</note> 
+               <hi>if any man offend not in word,</hi>
+               <note place="margin">Prov. 10.19.</note> 
+               <hi>the ſame is a perfect man. Solomon</hi> (a very able and ſufficient Judge) tells us, <hi>he that refraineth his lips, is wiſe;</hi> not he that is alwayes <hi>ſilent,</hi> but he whoſe ſpeech is not infected with <hi>vanity</hi> or <hi>ſin. A fool's voice</hi> (ſayes the ſame Author) <hi>is known by the multitude of words;</hi>
+               <note place="margin">Eccleſ. 5 3.</note> if there be nothing elſe to diſtinguiſh him, he commonly carries this <hi>mark in his mouth.</hi> The greateſt <hi>quickneſs of apprehenſion</hi> ſhould be accompanied with a <hi>ſlowneſs to ſpeak;</hi> for the <hi>little
+<pb n="11" facs="tcp:47282:10"/>member</hi> many times does <hi>no little miſchief.</hi> The manag<g ref="char:EOLhyphen"/>ing of it, is of mighty conſequence, as to our <hi>ſtanding</hi> or <hi>falling</hi> before the bar of God:<note place="margin">Matth. 12.37.</note> 
+               <hi>By thy words</hi> (ſays our Saviour) <hi>thou ſhalt be juſtified, and by thy words thou ſhalt be Condemned.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="7"/> Seventhly, A Behaviour <hi>Sutable</hi> to thoſe <hi>Relations</hi> wherein we ſtand. <hi>David</hi> is commended by the Holy Ghoſt for <hi>behaving himſelf wiſely in all his wayes,</hi>
+               <note place="margin">1 Sam. 18.5, 14.</note> with reference to <hi>Saul,</hi> that is, both as a <hi>Son-in-law,</hi> and a <hi>Subject.</hi> And afterwards, when he came to the <hi>Throne</hi> he kept his reſolution of <hi>behaving him<g ref="char:EOLhyphen"/>ſelf wiſely in a perfect way,</hi>
+               <note place="margin">Pſal. 101.2.</note> and <hi>walking within his Houſe</hi> (as a <hi>Maſter,</hi> and within his <hi>Kingdom</hi> as a <hi>Magi<g ref="char:EOLhyphen"/>ſtrate</hi>) <hi>with a perfect heart.</hi> No one ſtands ſo <hi>alone</hi> and ſo <hi>independently by himſelf</hi> in this world, but that he is cloathed with one relation or other towards ſome of his Fellow creatures; we are not like <hi>Melchiſedeck, without deſcent,</hi> not dropt <hi>out of</hi> Heaven,<note place="margin">Heb. 7.3.</note> as <hi>Enoch</hi> was tranſlated <hi>into</hi> it. Every one is either <hi>in authority</hi> or <hi>under</hi> it, a Superiour or an Inferiour; and to de<g ref="char:EOLhyphen"/>port our ſelves agreeably to our <hi>particular ſtate,</hi> is a conſiderable part of Spiritual wiſedom. This will teach us how to carry it as we ought, with reſpect to thoſe that are <hi>above</hi> us, <hi>below</hi> us, and <hi>equal</hi> with us.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="8"/> Eighthly, An <hi>unexceptionable</hi> and <hi>inoffenſive</hi> con<g ref="char:EOLhyphen"/>verſation before all, even <hi>ſtrangers</hi> and <hi>enemies. 'Tis</hi> a great Apoſtolical precept,<note place="margin">Coloſ. 4.<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>walk in wiſedom towards them that are without;</hi> do not furniſh them with <hi>dirt</hi> to caſt upon you, by any <hi>foul</hi> unjuſtifiable action. It was a ſad ſlip both of <hi>Abraham</hi> and <hi>Sarah</hi> to give ſuch an occaſion of <hi>reproving</hi> them to <hi>Abimelech,</hi>
+               <note place="margin">Gen. 20.16.</note> an <hi>Heathen Prince.</hi> Whatever calumnies are <hi>fram'd</hi> by our <hi>obſervers,</hi> we ſhould live ſo, as that nothing may
+<pb n="12" facs="tcp:47282:11"/>be <hi>found in us;</hi> that though their malice may prompt them to <hi>Accuſe,</hi> they may not be able to <hi>Convince us</hi> of ſin. The exacteſt <hi>Righteouſnes</hi> and integrity in all our dealings, is the beſt prudence; the gain of a <hi>falſe ballance</hi> is in a ſpecial ſenſe, <hi>deceitful riches. He that getteth wealth and not by right ſhall leave it in the midst of his dayes,</hi>
+               <note place="margin">Jerem. 17.11.</note> 
+               <hi>and at his End ſhall be a fool: i. e.</hi> he ſhall then appear to be ſo. But as we ſhould be wiſely carefull to do nothing which may <hi>really injure,</hi> ſo nothing which may <hi>needleſly offend</hi> another: beſides the law of <hi>Equity,</hi> there is a <hi>law of kindneſs</hi> to be ob<g ref="char:EOLhyphen"/>ſerved, that our converſations may be blameleſs; we muſt beware not only of the ſmalleſt violation of <hi>ju<g ref="char:EOLhyphen"/>ſtice,</hi> but of the neglect of <hi>civil courteſie</hi> to the worſt of men. A <hi>rough</hi> and a <hi>peeviſh</hi> temper is both a <hi>grei<g ref="char:EOLhyphen"/>vance</hi> to our ſelves, and <hi>reproach</hi> to Religion: the <hi>churl</hi> who <hi>cannot be ſpoken to,</hi>
+               <note place="margin">1 Sam. 25.17.</note> is more like a <hi>Son of Belial,</hi> than a <hi>child of God.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="II"/> The <hi>Second</hi> Thing, is to enquire, what may be reaſonably lookt upon as a <hi>competent Inheritance.</hi> In General,<note place="margin">Prov. 30.8.</note> 'tis eaſily determined by <hi>Agur's prayer;</hi> that which comes up to his <hi>point,</hi> and ſets us in a <hi>middle ſtate</hi> between <hi>Poverty</hi> and <hi>Riches,</hi> is a full anſwer to the preſent Queſtion. <hi>Preſſing Indigency,</hi> and <hi>overflowing Abundance</hi> are the extreams on both hands, and attended with dangerous Temptations. Mens circumſtances and occaſions indeed are very different and various; ſo that what is <hi>ſufficient</hi> to <hi>one,</hi> may not be ſo to <hi>all;</hi> but every one may take his meaſures by the Three following Rules.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Firſt, That which affords the <hi>most conveniences</hi> with the <hi>feweſt burdens,</hi> is a truly competent Inheri<g ref="char:EOLhyphen"/>tance. They that are in continual ſtreights, and al<g ref="char:EOLhyphen"/>ways
+<pb n="13" facs="tcp:47282:11"/>
+               <hi>ſeek their Bread</hi> as <hi>out of deſolate places,</hi>
+               <note place="margin">Pſal. 109.10.</note> are apt to be ſunk and <hi>bowed down</hi> on one hand; and they that live in <hi>extraordinary fulneſs,</hi> are as much diſtra<g ref="char:EOLhyphen"/>cted and perplext on the other hand, and their ſouls <hi>cut aſunder</hi> (as it were) and torn in pieces by <hi>multi<g ref="char:EOLhyphen"/>tude of Thoughts.</hi> The caſe lyes plainly thus; they that have <hi>too little,</hi> are oppreſt with <hi>neceſſary</hi> cares, and they that have <hi>too much</hi> are tormented with <hi>un<g ref="char:EOLhyphen"/>neceſſary</hi> ones; but they that have <hi>enough</hi> (and no more) are <hi>moſt free</hi> from both ſorts of cares, and en<g ref="char:EOLhyphen"/>joy <hi>most comfort.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly, That Inheritance which places us <hi>below Envy,</hi> and <hi>above Contempt,</hi> is a true competency. If we are <hi>too high,</hi> we ſhall be objects of <hi>more ſpite</hi> and malice; many will look upon us with an <hi>Evil eye,</hi> and be oftentimes prone to <hi>cenſure</hi> and condemn us for our moſt innocent and lawful actions; it may be, our proſperity will provoke ſome to <hi>endeavour our ruine,</hi> and ſeek our deſtruction; as <hi>Joſeph's brethren hated him, and would not ſpeak peaceably unto him,</hi>
+               <note place="margin">Gen. 37.4.</note> but plotted his overthrow, and that which was next to his <hi>Murder,</hi> becauſe he inherited moſt of his <hi>Fathers Love.</hi> If we are <hi>too low,</hi> every one will be apt to <hi>trample</hi> upon us, and treat us with ſcorn; <hi>Job,</hi> that was <hi>reverenc'd</hi> ſo much in his time of plenty, was equally <hi>ſleighted</hi> in his poverty: If he <hi>intreated his Servants, they would give him no Anſwer;</hi>
+               <note place="margin">Job 19.16.</note> nay (which was yet worſe) <hi>young children deſpiſed him,</hi>
+               <note place="margin">verſe 18.</note> 
+               <hi>and when he aroſe, they ſpake against him.</hi> It is beſt to be in ſuch a condition betwixt <hi>exceſſive</hi> Greatneſs and Mean<g ref="char:EOLhyphen"/>neſs, that we may be ſafe both from the <hi>blasts</hi> of En<g ref="char:EOLhyphen"/>vy, and from the <hi>foot of Pride;</hi> that others may not be tempted to <hi>repine</hi> at us, nor be able to <hi>inſult over</hi> us.</p>
+            <pb n="14" facs="tcp:47282:12"/>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Thirdly, That which exempts us from the <hi>neceſſi<g ref="char:EOLhyphen"/>ty of receiving,</hi> and furniſhes us with an <hi>ability of giv<g ref="char:EOLhyphen"/>ing,</hi> is a very deſirable State, and a really ſufficient Inheritance. Men are commanded to <hi>work with their hands the thing which is good,</hi>
+               <note place="margin">Eph. 4.28.</note> 
+               <hi>that they may have to give to him that needeth.</hi> It is not ſo good to <hi>live upon Alms</hi> as to have the <hi>power of bestowing</hi> them; and our <hi>Sa<g ref="char:EOLhyphen"/>viour</hi> hath told us,<note place="margin">Acts 20.35.</note> that <hi>It is more bleſſed to give, than to receive.</hi> It is troubleſome and uneaſie to be in the <hi>condition of Beggars</hi> our ſelves, or to have <hi>crowds of Beggars</hi> always at our doors; the beſt is, to be ca<g ref="char:EOLhyphen"/>pable of releiving a <hi>few,</hi> and not to ſtand in want of releif from <hi>any.</hi> He that can <hi>diſpenſe</hi> his own Chari<g ref="char:EOLhyphen"/>ty <hi>ſometimes,</hi> and is <hi>never</hi> forc't to <hi>crave</hi> it from others, may very well ſit down with ſatisfaction.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="III"/> The <hi>Third</hi> thing, is to ſhew, wherein the <hi>Profita<g ref="char:EOLhyphen"/>bleneſs</hi> of Wiſdom and an Inheritance <hi>together</hi> does appear. This may be open'd diſtinctly under two Branches.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Firſt, It is very manifeſt, that an <hi>Inheritance</hi> is pro<g ref="char:EOLhyphen"/>fitable with Wiſdom. <hi>The Crown of the wiſe,</hi> (ſayes <hi>Solo<g ref="char:EOLhyphen"/>mon</hi>) <hi>is their Riches. i. e.</hi> They are a ſingular orna<g ref="char:EOLhyphen"/>ment and advantage to them. And that in two re<g ref="char:EOLhyphen"/>ſpects.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Firſt, Riches add a <hi>Reputation</hi> to what men ſay and do. The World will have no regard to them that <hi>ſit at the Footstool.</hi> If <hi>real worth</hi> have not the acceſſion of outward things to <hi>recommend</hi> it, it is <hi>as nothing</hi> to the generality of Men.<note place="margin">Eccleſ. 9.16.</note> 
+               <hi>The poor mans Wiſdom is de<g ref="char:EOLhyphen"/>ſpiſed, and his words are not heard. Solomon</hi> was the more famous for his wiſdom, becauſe he was a <hi>Prince;</hi> his <hi>prudence</hi> was the more extolled, becauſe his <hi>perſon</hi> was in honour.<note place="margin">Prov. 19.7.</note> If a poor man <hi>purſues even his Friends
+<pb n="15" facs="tcp:47282:12"/>with words,</hi> they ſeldom prevail; and upon <hi>Strangers</hi> much leſs. An Inheritance will procure us ſome <hi>Cre<g ref="char:EOLhyphen"/>dit</hi> and Eſteem, and by that means our words and actions will have the greater <hi>acceptance</hi> and ſucceſs.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly, Riches give Men the Opportunity of <hi>ſerving God and their Generation</hi> better than others. They may be made the inſtruments of advancing God's <hi>name,</hi> promoting his <hi>interest,</hi> and of doing <hi>much good</hi> to others, as well as helps in the <hi>working out of our own Salvation.</hi> When wiſdom is without a com<g ref="char:EOLhyphen"/>petency of Wealth, 'tis a great inconvenience and ob<g ref="char:EOLhyphen"/>ſtruction to the exerciſe of ſeveral <hi>Graces,</hi> and diſ<g ref="char:EOLhyphen"/>charge of ſeveral <hi>duties,</hi> which would be profitable not only to our ſelves, but to the Publick. There may be pious <hi>inclinations</hi> and deſires, but the mans <hi>wings</hi> are <hi>clipt,</hi> and his <hi>hands tyed</hi> from <hi>executing of</hi> them; as the <hi>Apostle</hi> ſaid in another caſe, <hi>to will is preſent with me, but how to perform</hi> that which I would,<note place="margin">Rom. 7.18.</note> 
+               <hi>I find not.</hi> The <hi>narrowneſs</hi> of a mans <hi>Eſtate</hi> does of-often hinder the diſcovery of the <hi>largeneſs</hi> of his <hi>Heart.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly, It is much more manifeſt, that <hi>wiſdom</hi> is very beneficial with an Inheritance. <hi>Nabal,</hi> a <hi>rich Fool,</hi> was an unſociable Churl, and the burden of the Earth; though his <hi>belly was filled with</hi> conſide<g ref="char:EOLhyphen"/>rable <hi>Treaſures,</hi> yet his <hi>Heart</hi> being <hi>hid from under<g ref="char:EOLhyphen"/>ſtanding,</hi> it almoſt unfitted him to live among Man<g ref="char:EOLhyphen"/>kind. Two Things will evince this more particu<g ref="char:EOLhyphen"/>larly.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Firſt, Wiſdom <hi>prevents the miſchief</hi> which Riches <hi>alone</hi> might do. How often are they <hi>hurtful to the Owners,</hi> as well as to others, when <hi>Folly is with them!</hi>
+               <note place="margin">Eccleſ. 5.13.</note> As, when they make Men arrogant and <hi>High-minded,</hi>
+               <pb n="16" facs="tcp:47282:13"/>or vain and <hi>wanton,</hi> or ſenſual and <hi>Earthly.</hi> What ill effects do they produce, when they encourage Men to <hi>oppreſs</hi> and wrong their Inferiours; when they become <hi>inſtruments of cruelty</hi> to <hi>pierce the hearts,</hi> and to <hi>grind the faces of the poor!</hi> Then it muſt be ac<g ref="char:EOLhyphen"/>knowledged, that they are like <hi>heavy talents,</hi> which <hi>weigh</hi> Men down the <hi>ſooner</hi> to Hell, and <hi>ſink</hi> them the <hi>deeper</hi> in it:<note place="margin">2 Sam. 18.9.</note> Or like <hi>Abſalom</hi>'s <hi>hair,</hi> which proved the means of his death, while he was ſeemingly <hi>lifted</hi> nearer towards Heaven. Holy wiſdom is the only po<g ref="char:EOLhyphen"/>werful remedy againſt all ſuch fatal abuſes of our Tem<g ref="char:EOLhyphen"/>poral good things.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly, As wiſedome keeps them from being miſ<g ref="char:EOLhyphen"/>cheivous, ſo it makes them <hi>poſitively uſeful. Wiſdom is profitable to direct;</hi>
+               <note place="margin">Eccleſ. 10.10.</note> it teaches Men how to employ their wealth in the beſt and moſt advantagious man<g ref="char:EOLhyphen"/>ner, and to <hi>lay it out</hi> ſo, as to <hi>receive their own</hi> again with the moſt plentiful <hi>increaſe,</hi> by a kind of <hi>ſacred <g ref="char:V">Ʋ</g>ſury.</hi> It ſhews Men how to turn their riches into a <hi>Treaſure</hi> which can neither be <hi>loſt,</hi> nor <hi>corrupted;</hi> to <hi>exchange</hi> their <hi>Silver and Gold</hi> for a <hi>Crown of Life,</hi> and an <hi>eternal inheritance in the Kingdom of God.</hi> Chri<g ref="char:EOLhyphen"/>ſtian wiſdom does indeed <hi>conſecrate</hi> that to God, which corrupt Nature would <hi>ſacrifice</hi> to the Devil, and writes <hi>Holineſs to the Lord</hi> upon thoſe Eſtates, which might otherwiſe be fram'd into <hi>weapons of un<g ref="char:EOLhyphen"/>righteouſneſs.</hi> The fleſh is very apt to manage them <hi>againſt</hi> God, but Grace renders them ſerviceable <hi>for</hi> him. Then may <hi>the brother of low degree rejoyce in be<g ref="char:EOLhyphen"/>ing exalted,</hi>
+               <note place="margin">Jam. 1.9.</note> and apply that part of <hi>Jobs Thanksgiving</hi> very juſtly to his own caſe, <hi>The Lord hath given, bleſſed be the name of the Lord.</hi>
+               <note place="margin">Job 1.21.</note>
+            </p>
+            <pb n="17" facs="tcp:47282:13"/>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="IV"/> The <hi>Fourth</hi> and laſt Thing, is to make ſome <hi>Appli<g ref="char:EOLhyphen"/>cation</hi> of the preſent Truth. It is improvable <hi>two ways.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Firſt, By way of <hi>Confutation</hi> and <hi>Reproof.</hi> Two Things may be inſtanc'd in, which fall under the <hi>Edge</hi> of this Doctrine.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Firſt, It confutes that <hi>Popiſh principle,</hi> which mag<g ref="char:EOLhyphen"/>nifies <hi>voluntary poverty.</hi> It is beſide my purpoſe here, to inſiſt upon the <hi>Juggle</hi> and the <hi>Cheat</hi> which there is commonly in this; (for under the <hi>Veil,</hi> and <hi>Cloak</hi> of pretended <hi>Mortification</hi> to the World, they not onely ſubſiſt by <hi>Idleneſs,</hi> but many times raiſe <hi>unſeen</hi> Eſtates,) nor does it concern me now to lay open the <hi>abſurd contradiction</hi> which there is in this, to ſome of their other <hi>receiv'd opinions;</hi> (as particularly, that <hi>outward grandeur</hi> and proſperity is a <hi>mark</hi> of the <hi>true Church</hi>) but upon this occaſion which the Text fairly gives, I would only intimate how falſe and unagree<g ref="char:EOLhyphen"/>able it is to the Scripture-account. Voluntary pover<g ref="char:EOLhyphen"/>ty is not only againſt the <hi>Dictate of Nature,</hi> (be<g ref="char:EOLhyphen"/>cauſe it is the chuſing of a <hi>real evil</hi>) but againſt the <hi>ſtream of the Word</hi> of God. It is an excluding of our ſelves from the benefit of all thoſe <hi>promiſes</hi> which per<g ref="char:EOLhyphen"/>haps God might think good for us to reap; As, that <hi>the Righteous ſhall inherit the Land,</hi>
+               <note place="margin">Pſal. 37.29.</note> and <hi>the meek ſhall in<g ref="char:EOLhyphen"/>herit the Earth.</hi>
+               <note place="margin">Matth. 5.5.</note> It is to make our ſelves ſuch a <hi>Curſe</hi> as wicked Men are often threatned to be; as, to be <hi>cloathed with rags,</hi> reduced to <hi>a morſel of bread, &amp;c.</hi> If it be reckon'd as one of the Characters (tho' not an <hi>eſſential</hi> one) of a <hi>good man,</hi> that he <hi>leaves an Inheritance to his Childrens Children,</hi>
+               <note place="margin">Prov. 13.22.</note> it can<g ref="char:EOLhyphen"/>not be our <hi>duty</hi> to caſt it away from us, and there<g ref="char:EOLhyphen"/>by to deprive them of the <hi>hopeful reverſion,</hi> as well as our ſelves of the <hi>comfortable poſſeſſion.</hi> Riches are
+<pb n="18" facs="tcp:47282:14"/>not things ſo <hi>utterly inconſiſtent</hi> with Salvation, as that they muſt be <hi>neceſſarily relinquiſh't</hi> and renounc't in order to it.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly, It reproves that too <hi>general practiſe</hi> on the other hand, of <hi>over-valuing</hi> a <hi>Temporal Eſtate,</hi> even to the <hi>contempt of Religion.</hi> It is a very eaſie and common miſtake, to ſet an <hi>extravagant price</hi> upon the good things of this Life, and at the ſame time to <hi>diſparage,</hi> and think meanly of what is infinitely bet<g ref="char:EOLhyphen"/>ter. When Men put the <hi>World in their hearts,</hi> a <hi>Title of Honour</hi> ſhall be preferr'd to the <hi>New Name,</hi> and to be <hi>clad in Scarlet</hi> ſhall be reckon'd a greater priviledge, than to have <hi>Robes waſht white in the Blood of the Lamb.</hi> Indeed there can be no <hi>Righteous Judgment,</hi> no diſcerning or <hi>approving of things that are excellent,</hi> where the Love of the World prevails; for the mind is alwayes ſo far <hi>blinded</hi> by Satan (the <hi>God of this World</hi>) that every thing is ſeen in <hi>a falſe Light.</hi> Some men are ſo fond of being deceiv'd, that they ſeem to pleaſe themſelves with the fancy of <hi>Money anſwering all things;</hi>
+               <note place="margin">Eccl. 10.19.</note> not conſidering, that though the <hi>expreſſi<g ref="char:EOLhyphen"/>on</hi> is <hi>unlimited,</hi> it muſt have a <hi>limited ſignification;</hi> for our <hi>principal wants</hi> cannot be <hi>ſupplied</hi> by Silver and Gold.<note place="margin">1 Tim. 4.8.</note> 
+               <hi>Godlineſs is profitable for all things,</hi> in the lar<g ref="char:EOLhyphen"/>geſt ſenſe, becauſe it hath the <hi>promiſes of the preſent and future Life;</hi> it extends to the relief of our <hi>Earthly</hi> and our <hi>Heavenly</hi> part, our <hi>outward</hi> and our <hi>inward Man.</hi> But there are many <hi>calls</hi> (eſpecially thoſe that are moſt <hi>loud</hi> and urgent) which <hi>Money</hi> cannot <hi>anſwer to;</hi> the <hi>hungry</hi> and <hi>thirſty</hi> and <hi>naked Soul</hi> can<g ref="char:EOLhyphen"/>not be <hi>fed,</hi> or <hi>ſatisfied,</hi> or <hi>cloathed</hi> by it, though in <hi>ſuch caſes</hi> it may aſſiſt and refreſh the <hi>Body. Mam<g ref="char:EOLhyphen"/>mon</hi> is fit, as a <hi>Servant</hi> to <hi>miniſter to</hi> us, but cannot be a <hi>God</hi> to <hi>Save</hi> us.</p>
+            <pb n="19" facs="tcp:47282:14"/>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly, It affords proper matter of <hi>Exhortation.</hi> Two things ought to be preſt, as <hi>conſequent</hi> upon what hath been ſaid.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Firſt, Whether <hi>Riches increaſe,</hi> or <hi>decreaſe,</hi> do not <hi>think of them above what is written.</hi> If they <hi>come in like a floud</hi> upon you, let not that <hi>lift you up;</hi> if they <hi>Ebb</hi> and decline as much, let not that <hi>caſt you down.</hi> Remember ſtill, how far the true eſtimate and value of them will reach, that you may not judge your condition <hi>bettered</hi> by the <hi>ſmiles</hi> of Providence, nor <hi>made worſe</hi> by its <hi>frowns,</hi> beyond what really it is. It it our duty to be <hi>thankful,</hi> when god proſpers us in the World, and to be <hi>contented</hi> when he does not; but the ſinful <hi>Lovers of abundance,</hi> are alwayes <hi>leaſt ſenſible of Gods goodneſs</hi> in beſtowing it, and yet <hi>moſt impatient,</hi> whenever he does diminiſh it. In <hi>every state</hi> therefore bear this upon your thoughts, that the <hi>having</hi> of an Inheritance is not the <hi>chiefest good,</hi> and the <hi>loſs</hi> of it is not the <hi>greatest evil.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly, Let <hi>Religion</hi> be the <hi>main buſineſs</hi> and em<g ref="char:EOLhyphen"/>ployment of your Lives. Conſider that your <hi>Gene<g ref="char:EOLhyphen"/>ral Calling,</hi> as Chriſtians, is of more concern, than your <hi>particular Vocation,</hi> as Men. Let <hi>Spiritual</hi> things have the conſtant precedency to <hi>Temporal.</hi>
+               <note place="margin">Matth. 6.33.</note> 
+               <hi>Seek firſt the Kingdom and Righteouſneſs of God,</hi> and then you may chearfully expect that <hi>other things will be added unto you.</hi> The way to obtain every thing in a <hi>fit Meaſure,</hi> is to ſeek every thing in the <hi>right order.</hi> Be moſt careful and ſollicitous about the <hi>one thing needful,</hi> before the other <hi>many things,</hi>
+               <note place="margin">Luk. 10.41, 42.</note> which are of far leſs importance; <hi>chuſe the good part,</hi> and do your utmoſt to ſecure it. 'Tis better, that your <hi>whole worldly portion</hi> ſhould be neglected and hazarded, than <hi>this. With all thy gettings</hi> (ſays the <hi>Wiſeman</hi>) <hi>get
+<pb n="20" facs="tcp:47282:15"/>underſtanding.</hi>
+               <note place="margin">Prov. 4.7.</note> Without it, though you ſhould <hi>heap up ſilver as the dust,</hi> you are the <hi>poorest</hi> and moſt miſerable creatures upon Earth; and the <hi>Apostle</hi>'s <hi>Motto</hi> muſt be <hi>inverted,</hi> if it be <hi>transferr'd</hi> to you; <hi>As having nothing</hi> indeed,<note place="margin">2 Cor. 6.10.</note> when you ſeem to <hi>poſſeſs all things.</hi> Therefore in order to the <hi>Acquiring</hi> and <hi>Im<g ref="char:EOLhyphen"/>proving</hi> of Holy wiſdom, follow theſe Six <hi>Directions.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Direct. </seg>1</label> Firſt, Go to God for it by <hi>prayer.</hi> This is both a neceſſary and ſucceſsful means; the regular appoint<g ref="char:EOLhyphen"/>ed way of receiving <hi>every gift which comes down from above.</hi> There is ('tis true) a <hi>natural humane wiſdom</hi> which may be increas'd and perfected by a man's own <hi>Industry;</hi> and there is a <hi>fleſhly Deviliſh</hi> wiſdom, which is <hi>learn't</hi> with <hi>too much eaſe</hi> and ſpeed; but real <hi>ſaving</hi> wiſdom is <hi>first infuſed</hi> at the New birth, and <hi>further degrees</hi> of it <hi>freely communicated</hi> afterwards by the ſpi<g ref="char:EOLhyphen"/>rit of God. Folly is <hi>born</hi> and <hi>bred</hi> with us; it is <hi>bound up in our hearts,</hi> when we are <hi>children, grows up</hi> with us, when we are <hi>young men;</hi> and as we <hi>increaſe</hi> in age and ſtature, we increaſe our fooliſhneſs, till God renews and <hi>enlightens</hi> our minds.<note place="margin">Jam. 1.5.</note> 
+               <hi>If any of you lack wiſdom</hi> (as there is none that does not) <hi>let him ask it of God, who giveth to all men liberally</hi> (<hi>i. e.</hi> to all that ask) <hi>and upbraideth not; and it ſhall be given him.</hi> Men that contrive and <hi>labour to be rich,</hi> are not ſure that they ſhall proſper;<note place="margin">Eccleſ. 9.11.</note> for <hi>Bread is not to the wiſe;</hi> there is a great uncertainty of event in all ſuch caſes; but he that <hi>cryes after knowledge,</hi>
+               <note place="margin">Prov. 2.3, 4, 5.</note> 
+               <hi>and lifts up his voice</hi> (with his Heart too Heaven) <hi>for understanding,</hi> ought to be confident of prevailing; he ſins, if he doubts of his ſucceſs; if he be <hi>denyed,</hi> 'tis becauſe he queſtions his being <hi>heard.</hi>
+               <note place="margin">1 King. 3.11, 12, 13.</note> God liked <hi>Solomon</hi>'s <hi>petition</hi> ſo well, that he gave him in <hi>anſwer</hi> to it, not only <hi>good mea<g ref="char:EOLhyphen"/>ſure,</hi>
+               <pb n="21" facs="tcp:47282:15"/>but <hi>running over;</hi> both that which he askt, and a great deal more.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly, Study and <hi>Meditate in the Word.</hi> This is that which <hi>makes the ſimple wiſe;</hi>
+               <note place="margin">Pſal. 19.7.</note> which made <hi>Da<g ref="char:EOLhyphen"/>vid</hi> himſelf <hi>wiſer than his Enemies,</hi> (notwithſtanding their <hi>ſubtilty</hi>),<note place="margin">Pſal. 119.98, 99, 100.</note> and <hi>his Teachers</hi> (notwithſtanding their <hi>Learning</hi>), and the <hi>Ancients</hi> (notwithſtanding their <hi>large Experience.</hi>) This made <hi>Timothy wiſe to ſalvation,</hi> and he is therefore commended,<note place="margin">2 Tim. 3.15.</note> that <hi>from a Child he had known the Holy Scriptures.</hi> The more Men make uſe of this <hi>Lamp,</hi> the more <hi>Light</hi> will ſhine every day <hi>into their minds,</hi> and <hi>upon their wayes.</hi> Thoſe hearts in which the <hi>word of Chriſt dwells most richly,</hi> contain the greateſt <hi>Treaſures</hi> of the beſt wiſdom. If Gods <hi>Teſtimonies</hi> be your <hi>Counſellours,</hi> and the <hi>Bible</hi> your <hi>Oracle,</hi> and continual <hi>Companion,</hi> your <hi>profiting will ap<g ref="char:EOLhyphen"/>pear to all.</hi> The reaſon of that <hi>damning Ignorance</hi> which abounds even in the <hi>Reformed Chriſtian</hi> World, is mens ſhameful <hi>unacquaintedneſs</hi> with the Word of God.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Thirdly, Chuſe the <hi>Society</hi> of thoſe, who are moſt <hi>inſtructed to</hi> the Kingdom of Heaven. <hi>Converſe</hi> with the <hi>children of Light;</hi> not with thoſe whoſe <hi>under<g ref="char:EOLhyphen"/>ſtandings are darkened,</hi> who <hi>love ſimplicity,</hi> and love to propagate it, who <hi>live in errour,</hi> and would lead others into it. <hi>He that walketh with wiſe men,</hi>
+               <note place="margin">Prov. 13.20.</note> 
+               <hi>ſhall be wiſe;</hi> one <hi>ſpark of Light</hi> may help to <hi>kindle</hi> another. But expect not to <hi>receive good</hi> from thoſe who <hi>are evil</hi> themſelves; that ſaying of our <hi>Saviour</hi> to the <hi>Phari<g ref="char:EOLhyphen"/>ſees,</hi> is a ſufficient diſcouragement,<note place="margin">Matth. 12.34.</note> 
+               <hi>Oh generation of Vipers, how can you being evil, ſpeak good things?</hi> Their <hi>diſcourſes</hi> are not likely to <hi>miniſter Grace,</hi> but to <hi>infect with ſin.</hi> He who is in purſuit of that <hi>understanding which is a well ſpring of Life,</hi> muſt not go and <hi>ſeek it
+<pb n="22" facs="tcp:47282:16" rendition="simple:additions"/>among the Dead.</hi> 'Tis dangerous to be their <hi>Famili<g ref="char:EOLhyphen"/>ars,</hi> who are <hi>ſtrangers to God.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> Fourthly, Be ready to <hi>take the Counſels</hi> and <hi>reproofs</hi> of thoſe that are wiſe and good. This will be an <hi>evidence,</hi>
+               <note place="margin">Prov. 9.9.</note> that God hath given us <hi>ſome wiſdom</hi> already, and it is the proper courſe to be <hi>yet wiſer, and increaſe in Learning.</hi>
+               <note place="margin">Prov. 12.1.</note> 
+               <hi>Whoſo loveth inſtruction, loveth knowledge, but he that hateth reproof, is brutiſh. q. d.</hi> he is not a reaſonable Creature, but a Beaſt. They are no bet<g ref="char:EOLhyphen"/>ter than <hi>Swine</hi> that <hi>trample upon Pearls,</hi> when caſt be<g ref="char:EOLhyphen"/>fore them. A <hi>poor and a wiſe Child is</hi> preferred to an <hi>old and fooliſh king,</hi>
+               <note place="margin">Eccleſ. 4.13.</note> 
+               <hi>who will not be admoniſhed.</hi> The ſtubbornneſs of <hi>Rehoboam,</hi> in oppoſition to the ad<g ref="char:EOLhyphen"/>vice of his Fathers Counſellours, ended in the loſs of the far greater part of his Kingdom; and in more pri<g ref="char:EOLhyphen"/>vate caſes many times, mens <hi>leaning to</hi> their own judg<g ref="char:EOLhyphen"/>ments and <hi>walking after the ſight of their own eyes,</hi> hath been very fatal. Seaſonable and <hi>prudent rebukes</hi> ſhould be accepted always with all thankfulneſs, as the trueſt, and moſt valuable <hi>acts of Friendſhip.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/> Fifthly, Endeavour to ſubdue both <hi>pride</hi> and <hi>paſ<g ref="char:EOLhyphen"/>ſion;</hi> becauſe both of them are great Enemies to <hi>ſound Wiſdom. Humility</hi> makes men <hi>teachable;</hi> there<g ref="char:EOLhyphen"/>fore <hi>be not wiſe in your own eyes,</hi>
+               <note place="margin">Prov. 3.7.</note> learn this rule both from <hi>Solomon,</hi>
+               <note place="margin">Rom. 12.16.</note> and the <hi>Apoſtle Paul.</hi> Strive to <hi>ſee</hi> your own <hi>blindneſs,</hi> and be not <hi>dazled</hi> with a <hi>falſe re<g ref="char:EOLhyphen"/>flexion</hi> of your own abilities. 'Tis eaſie to obſerve, that they who are <hi>most pufft up,</hi> are <hi>leaſt enlightned,</hi> and men who think that they have the <hi>cleareſt know<g ref="char:EOLhyphen"/>ledge,</hi> are generally <hi>clouded</hi> with the <hi>groſſeſt ignorance.</hi>
+               <note place="margin">1 Cor. 8.2.</note> Take heed alſo of <hi>giving place to wrath;</hi> for this is a <hi>Devil,</hi> which above all others, will ſooneſt <hi>deface the Image of God</hi> on the underſtanding. What mad un<g ref="char:EOLhyphen"/>adviſed
+<pb n="23" facs="tcp:47282:16"/>actions do mens furious unbridled paſſions hurry them into! How do they put men <hi>beſide them<g ref="char:EOLhyphen"/>ſelves,</hi> and expoſe them to the <hi>juſt ſcorn</hi> of their fel<g ref="char:EOLhyphen"/>low-creatures? The Scripture doth not ſay in vain, or without cauſe, that <hi>He who is haſty of ſpirit,</hi>
+               <note place="margin">Prov. 14.29.</note> 
+               <hi>exalt<g ref="char:EOLhyphen"/>teth folly, i. e.</hi> he lifts it up, as it were, in the open view of others.<note place="margin">Jam. 3.13.</note> 
+               <hi>Meekneſs of wiſdom</hi> is recommended by the Holy Ghoſt; as if there could be no wiſdom, where Meekneſs is not. A <hi>cool head,</hi> and <hi>underſtanding heart</hi> are linkt together; ſo that if we do not ſuppreſs the <hi>heat</hi> of Anger, we ſhall extinguiſh the <hi>light</hi> of knowledge.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="6"/> Sixthly, Live in the conſtant <hi>vigorous ſenſe</hi> of <hi>ap<g ref="char:EOLhyphen"/>proaching death.</hi> If any thing will make men <hi>apply their hearts to wiſdom,</hi> (for the wiſdom which we ſpeak of, is the <hi>wiſdom of the Heart,</hi> more than <hi>of the Head</hi>) it muſt be a <hi>right numbring of their dayes.</hi>
+               <note place="margin">Pſal. 90.12.</note> The com<g ref="char:EOLhyphen"/>mon follies of mankind, who mind nothing but <hi>buy<g ref="char:EOLhyphen"/>ing and ſelling and getting of gain,</hi>
+               <note place="margin">Jam. 4.13, 14.</note> do ſpring from hence that they do not conſider what a thin <hi>vaniſhing va<g ref="char:EOLhyphen"/>pour our life is.</hi> The <hi>Religiouſly prudent</hi> men of <hi>this</hi> World, are ſuch as always <hi>reckon</hi> themſelves to be upon the borders of <hi>another;</hi> we cannot be truly <hi>wiſe,</hi> without <hi>underſtanding our latter end.</hi>
+               <note place="margin">Deut. 32.29.</note> According as every one is ſenſible of, and ſeriouſly Thoughtful a<g ref="char:EOLhyphen"/>bout, his <hi>preſent mortality,</hi> he will be wiſe for a <hi>future Eternity;</hi> that Man who <hi>walks among the Tombs,</hi> and <hi>makes the Grave his Houſe,</hi> is beſt fitted both to <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> the World, and to <hi>Leave</hi> it; he will be a <hi>bleſſing to others</hi> while he lives, and he himſelf ſhall be <hi>bleſſed with God,</hi> when he <hi>comes to Dye.</hi>
+            </p>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:47282:17"/>
+            <head>Books Printed for <hi>John Salusbury.</hi>
+            </head>
+            <p>THE Period of Humane Life, determined by the Divine Will, by <hi>T. Cruſo.</hi>
+            </p>
+            <p>The Mighty Wonders of a Merciful Providence, in a Sermon Preached on <hi>January</hi> the 31th. 1688. Being the day of publick thankſgiving to God for the great Deliverance of this Kingdom, by His Highneſs the Prince of <hi>Orange,</hi> by <hi>T. Cruſo.</hi>
+            </p>
+            <p>A Rational Defence of Non-Conformity, wherein the practice of Non-Conformiſts is vindicated from promoting Popery, and Ruining the Church, impu<g ref="char:EOLhyphen"/>ted to them by Dr. <hi>Stillingfleet,</hi> in his unreaſonable<g ref="char:EOLhyphen"/>neſs of Separation. Alſo his Arguments from the Principles and way of the Reformers, and firſt Diſ<g ref="char:EOLhyphen"/>ſenters are Anſwered, and the caſe of the preſent Se<g ref="char:EOLhyphen"/>paration, truly ſtated, and the blame of it laid where it ought to be; and the way to Union a mong Pro<g ref="char:EOLhyphen"/>teſtants is pointed at, by Dr. <hi>Rule.</hi>
+            </p>
+            <p>Four grand Queſtions propoſed and briefly anſwe<g ref="char:EOLhyphen"/>red; wherein is diſcourſed the Authority and Duty of the Magiſtrates, in the Matters of Religion; the unlawfulneſs of a Toleration and general Liberty of Conſcience, the Divine-Right of Chriſtian Liberty in things indifferent, the unlawfulneſs of repealing the Laws againſt Popery and Idolatry, quarto, price 6 d.</p>
+            <p>Seventy five Sermons by the Right Reverend Fa<g ref="char:EOLhyphen"/>ther in God <hi>Ralph Browrigg</hi> late Lord Biſhop of <hi>Ex<g ref="char:EOLhyphen"/>eter,</hi> publiſhed by <hi>W. Martin</hi> M. A. ſometimes Preacher, at the Rolls, 2 Vol. Folio.</p>
+            <pb facs="tcp:47282:17"/>
+         </div>
+      </back>
+   </text>
+</TEI>
